@@ -59,8 +59,8 @@ and press ok
 
 ![Disconnect](./Img//Screenshot%202024-07-23%20191211.png)
 
-**12:** Copy the IP Address
+**13:** Copy the IP Address
 
 ![Copy This](./Img//Screenshot%202024-07-23%20204555.png)
 
-**13:** paste it into the browser and the control the camera from there!
+**14:** paste it into the browser and the control the camera from there!
